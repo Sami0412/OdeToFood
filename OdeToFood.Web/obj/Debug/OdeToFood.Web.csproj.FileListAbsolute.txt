@@ -77,3 +77,5 @@ C:\Users\samantha.williams\source\repos\OdeToFood\OdeToFood.Web\obj\Debug\OdeToF
 C:\Users\samantha.williams\source\repos\OdeToFood\OdeToFood.Web\obj\Debug\OdeToFood.Web.csproj.CopyComplete
 C:\Users\samantha.williams\source\repos\OdeToFood\OdeToFood.Web\obj\Debug\OdeToFood.Web.dll
 C:\Users\samantha.williams\source\repos\OdeToFood\OdeToFood.Web\obj\Debug\OdeToFood.Web.pdb
+C:\Users\samantha.williams\source\repos\OdeToFood\OdeToFood.Web\bin\OdeToFood.Data.dll
+C:\Users\samantha.williams\source\repos\OdeToFood\OdeToFood.Web\bin\OdeToFood.Data.pdb
